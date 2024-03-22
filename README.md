@@ -1,2 +1,2 @@
 # python-cmd-access
-using some form of comedy along the way, run cmd commands from the program
+you can just run it plain. doesn't require any odd lib. just run and be entertained or something
